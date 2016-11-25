@@ -2,7 +2,7 @@ javaCode{
   public static void main(String[] args){
     String userMessage = getUserMeassge();
 
-    printUserMessage;
+    printUserMessage(userMessage);
   }
 
   public static String getUserMessage(){
