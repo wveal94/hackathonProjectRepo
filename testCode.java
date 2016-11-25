@@ -3,6 +3,8 @@ class javaCode{
     String userMessage = getUserMeassge();
 
     printUserMessage(userMessage);
+
+    System.out.println("And that's all folks");
   }
 
   public static String getUserMessage(){
