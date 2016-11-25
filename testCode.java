@@ -1,4 +1,4 @@
-javaCode{
+class javaCode{
   public static void main(String[] args){
     String userMessage = getUserMeassge();
 
